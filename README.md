@@ -1,2 +1,6 @@
 # Hello-World
 First and default repository to store random stuff...
+
+A standard readme file that most people ignore and move to the main content...
+
+To those that actually DO read these, thank you for visiting and viewing my repo! I am a junior programmer that has briefly ventured into the realms of C# and Java, but mainly specialize in web development technologies such as HTML5, CSS3, Bootstrap4, and JS. I would absolutely love to further expand my knowledge of these areas and to learn node.js, SASS (and LESS), react, angular, and many others that have been pushing the internet forward.
